@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m @gecitgit
 
-### Personalized Pedagogy to Programming 💼
+### From Teaching to Programming 💼
 From being an educator to a software engineer, my journey is fueled by a zeal for designing personalized experiences. Formerly a teacher and director, I advocated for a 1:1 education model focusing on individualized instruction. This foundation has naturally transitioned into developing digital solutions tailored to unique user needs.
 
 ### Tools of the Trade 🛠️
@@ -17,6 +17,10 @@ I've transitioned from lesson planning to app crafting, relying on the following
 ![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=NPM&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=Vercel&logoColor=white)
+
+### Featured Projects 🌟
+1. [Gradebook v2](https://github.com/gecitgit/gradebook): The perfect companion for an educator to track their student load.
+2. [MindLOG v2](https://github.com/gecitgit/mindlog-v2): Visualizing Wellness - your mood's best friend!
 
 ### Connect with me 🌐
 - 🌍 Check out my [personal website!](https://taulant.dev/)
